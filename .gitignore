@@ -1,0 +1,12 @@
+.terraform
+k8s-infra/.terraform
+terraform.tfstate
+terraform.tfstate.backup
+.terraform.lock.hcl
+.terraform
+app/.terraform
+app/terraform.tfstate
+k8s-infra/.terraform
+k8s-infra/terraform.tfstate
+k8s-infra/terraform.tfstate.backup
+k8s-infra/.terraform.lock.hcls
